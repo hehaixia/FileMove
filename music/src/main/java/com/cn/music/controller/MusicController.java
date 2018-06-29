@@ -2,7 +2,6 @@ package com.cn.music.controller;
 
 import com.cn.music.service.IMusicService;
 import com.cn.music.web.request.PathReq;
-import me.ele.ping.common.web.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
