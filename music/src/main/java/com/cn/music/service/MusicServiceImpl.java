@@ -2,7 +2,6 @@ package com.cn.music.service;
 
 import com.cn.music.util.FileUtil;
 import com.cn.music.web.request.PathReq;
-import me.ele.ping.common.web.Response;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
