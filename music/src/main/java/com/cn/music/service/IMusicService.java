@@ -1,8 +1,6 @@
 package com.cn.music.service;
 
 import com.cn.music.web.request.PathReq;
-import me.ele.ping.common.web.Response;
-
 /**
  * Created with IntelliJ IDEA.
  * Description:
